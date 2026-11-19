@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Calculator",
+    "slug": "test-app-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.azukiprojects.testcalculator",
+      "adaptiveIcon": {
+        "backgroundColor": "#0b0d12"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.azukiprojects.testcalculator"
+    }
+  }
+}
